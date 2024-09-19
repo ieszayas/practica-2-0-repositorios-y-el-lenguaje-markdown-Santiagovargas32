@@ -1,0 +1,13 @@
+# Proyecto Ficticio
+
+## Descripción
+Este es un proyecto ficticio creado para demostrar cómo estructurar un archivo `README.md` utilizando las características básicas de Markdown. El proyecto incluye secciones de instalación, uso, características, una tabla, listas, enlaces y un bloque de código de ejemplo.
+
+## Instalación
+Para instalar el proyecto, clona el repositorio y sigue los siguientes pasos:
+
+```bash
+git clone https://github.com/usuario/proyecto-ficticio.git
+cd proyecto-ficticio
+npm install
+```

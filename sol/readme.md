@@ -19,5 +19,7 @@ npm install
 
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+[repo](https://github.com/ieszayas/practica-2-0-repositorios-y-el-lenguaje-markdown-Santiagovargas32/blob/main/README.md)
+
 
 

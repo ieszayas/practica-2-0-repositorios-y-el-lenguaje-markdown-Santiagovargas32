@@ -11,3 +11,8 @@ git clone https://github.com/usuario/proyecto-ficticio.git
 cd proyecto-ficticio
 npm install
 ```
+
+| Columna 1 | Columna 2  |
+|-----------|----------- |
+| Fila 1    | Campo  2   |
+| Fila 2    | Cell 5     | 

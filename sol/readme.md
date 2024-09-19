@@ -17,7 +17,7 @@ npm install
 | Fila 1    | Campo  1   |
 | Fila 2    | Campo 2    | 
 
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) {width='100px'}
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 
 

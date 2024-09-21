@@ -22,4 +22,8 @@ npm install
 [repo](https://github.com/ieszayas/practica-2-0-repositorios-y-el-lenguaje-markdown-Santiagovargas32/blob/main/README.md)
 
 
+## Clonar el repositorio
+![Captura de pantalla](C:\Users\Santiago\Pictures\imagen.png)
+
+
 

@@ -26,7 +26,7 @@ npm install
 ![Captura de pantalla](./imagen.png)
 
 ## Subir los cambios al main
-![Captura de pantalla]()
+![Captura de pantalla](./capruta.png)
 
 
 

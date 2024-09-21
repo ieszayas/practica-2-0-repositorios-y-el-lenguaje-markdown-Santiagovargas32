@@ -28,5 +28,9 @@ npm install
 ## Subir los cambios al main
 ![Captura de pantalla](./capruta.png)
 
+## Reverti cambios subidos al repositorio principal
+![Captura de pantalla](./captura1.png)
+
+
 
 

@@ -25,5 +25,8 @@ npm install
 ## Clonar el repositorio
 ![Captura de pantalla](./imagen.png)
 
+## Subir los cambios al main
+![Captura de pantalla]()
+
 
 

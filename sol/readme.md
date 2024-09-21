@@ -23,7 +23,7 @@ npm install
 
 
 ## Clonar el repositorio
-![Captura de pantalla](C:\Users\Santiago\Pictures\imagen.png)
+![Captura de pantalla](./imagen.png)
 
 
 
